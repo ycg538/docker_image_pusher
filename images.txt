@@ -1,3 +1,1 @@
-alpine
-python:alpine3.19
-omicsclass/reseq:v2.0
+omicsclass/genetic-map:v1.0
