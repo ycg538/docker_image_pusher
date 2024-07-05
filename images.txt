@@ -1,1 +1,1 @@
-omicsclass/genetic-map:v1.0
+omicsclass/pop-evol-gwas:v2.0
